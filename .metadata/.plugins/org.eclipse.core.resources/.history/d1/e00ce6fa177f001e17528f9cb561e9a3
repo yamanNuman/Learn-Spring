@@ -1,0 +1,17 @@
+package com.in28minutes.learnspringframework.examples.sample;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class DbServiceLauncherApplication {
+	
+	public static void main(String[] args) {
+		
+		
+		try(var context = new AnnotationConfigApplicationContext(DbServiceLauncherApplication.class)) {
+			
+		}
+	}
+
+}
