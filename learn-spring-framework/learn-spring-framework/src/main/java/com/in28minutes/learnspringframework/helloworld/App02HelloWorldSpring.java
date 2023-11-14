@@ -27,10 +27,6 @@ public class App02HelloWorldSpring {
 			
 			System.out.println("----------------------------------------------------------------------------------------");
 			Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
-		}
-		
-		
-		
-		
+		}	
 	}
 }
