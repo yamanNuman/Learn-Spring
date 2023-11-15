@@ -3,9 +3,11 @@ package com.in28minutes.learnspringframework.examples.sample;
 import java.util.Arrays;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
+//import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+//@Component
+@Service //Business Logic
 public class BusinessCalculationService {
 	
 	private DataService dataService;
@@ -20,5 +22,4 @@ public class BusinessCalculationService {
 		System.out.println("Busines findmax method");
 		return Arrays.stream(dataService.retrieveData()).max().orElse(0);
 	}
-
 }
