@@ -2,19 +2,30 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.GamingConfiguration"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.App03GamingSpringBeans"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GamingConsole"/>
-    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GameRunner"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.PacmanGame"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.examples.a1.YourBusinesClass"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.examples.sample.DbServiceLauncherApplication"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.examples.sample.BusinessCalculationService"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.config.ConfigurableBeanFactory"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.examples.a3.PrototypeClass"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.PreDestroy"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="jakarta.inject.Named"/>
+    <fullyQualifiedTypeName name="jakarta.inject.Inject"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringframework.game.GameRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 </qualifiedTypeNameHistroy>
