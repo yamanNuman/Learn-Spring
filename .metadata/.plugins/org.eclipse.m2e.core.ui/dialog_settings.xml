@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-boot"/>
+			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-boot"/>
 			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-framework-02"/>
 			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-framework"/>
 		</list>

@@ -14,7 +14,7 @@ public class BusinessCalculationService {
 	
 	//Constructor injection
 	@Autowired
-	public BusinessCalculationService(@Qualifier("MySqlDbServiceQualifier" )DataService dataService) {
+	public BusinessCalculationService(@Qualifier("MySqlDbServiceQualifier")DataService dataService) {
 		this.dataService = dataService;
 	}
 	
