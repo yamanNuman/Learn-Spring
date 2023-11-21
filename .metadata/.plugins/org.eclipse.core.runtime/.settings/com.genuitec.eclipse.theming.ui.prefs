@@ -1,17 +1,13 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=d096ed07f91c2246e168a6b01c66351ab559bff0
+>>>>>>>=f95b83a835916c7495410727a95116a437c00d1d
 applyBackground=false
 approved.defs.file.last.changed.time=1693315978000
 configurationInstallLocation=/C\:/Users/ymnN/eclipse/jee-2023-09/eclipse/
 eclipse.preferences.version=1
 iconcolormode=primary
-<<<<<<< HEAD
-last.download.attempt.time=1700172919613
-lastConfiguration=1700172915289
-=======
-last.download.attempt.time=1700238332646
-lastConfiguration=1700208839319
->>>>>>> 37e004928bb2f2f64562eec1e1373cd27862b3ad
+includeThemingInOomph=false
+last.download.attempt.time=1700504890697
+lastConfiguration=1700504886115
 newinstall=true
 workbench.theme=Dark Gray

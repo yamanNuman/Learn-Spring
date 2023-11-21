@@ -2,14 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-<<<<<<< HEAD
-			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-boot"/>
-=======
-			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-jpa-and-hibernate"/>
->>>>>>> 37e004928bb2f2f64562eec1e1373cd27862b3ad
-			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-boot"/>
-			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-framework-02"/>
-			<item value="C:\Users\ymnN\Desktop\spring-learn\learn-spring-framework"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa-and-hibernate"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -19,9 +12,5 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
