@@ -82,6 +82,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ymnN\Desktop\learn-spring\myfirstwebapp"/>
 			<item value="C:\Users\ymnN\Desktop\spring-learn\myfirstwebapp"/>
 		</list>
 		<list key="projectNameTemplate">
