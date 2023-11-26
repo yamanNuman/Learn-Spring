@@ -82,6 +82,14 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa-and-hibernate"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\example-db"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-boot"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\example-rest"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-framework-02"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-framework"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\example"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\myfirstwebapp"/>
 			<item value="C:\Users\ymnN\Desktop\spring-learn\myfirstwebapp"/>
 		</list>

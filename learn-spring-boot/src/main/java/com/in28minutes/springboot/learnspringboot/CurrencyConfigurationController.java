@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CurrencyConfigurationController {
 
-<<<<<<< HEAD
+
 	@Autowired
 	private CurrencyServiceConfiguration currencyServiceConfiguration;
 	
@@ -15,7 +15,7 @@ public class CurrencyConfigurationController {
 	public CurrencyServiceConfiguration retrieveAllCurreny() {
 		return currencyServiceConfiguration;
 	}
-=======
+
 	//Field Injection
 	@Autowired
 	private CurrencyServiceConfiguration configuration;
@@ -25,5 +25,5 @@ public class CurrencyConfigurationController {
 		return configuration;
 	}
 	
->>>>>>> 37e004928bb2f2f64562eec1e1373cd27862b3ad
+
 }
