@@ -82,6 +82,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ymnN\Desktop\learn-spring\restful-web-services"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa-and-hibernate"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\example-db"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa"/>
