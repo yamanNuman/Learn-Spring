@@ -6,11 +6,11 @@ const person = {
     nationalTeam: "England",
   },
   profiles: ["twitter", "facebook", "instagram"],
-  printProfile: () => {
-    person.profiles.map((profile) => {
-      console.log(profile);
-    });
-  },
+  // printProfile: () => {
+  //   person.profiles.map((profile) => {
+  //     console.log(profile);
+  //   });
+  // },
 };
 
 export function LearningJavaScript() {

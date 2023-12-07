@@ -1,12 +1,11 @@
 import './App.css';
-import LearningComponent from './components/learn-components/LearnComponens';
-import { LearningJavaScript } from './components/learn-components/LearningJavaScript';
+import Counter from './components/counter/Counter';
+
+
 function App() {
   return (
     <div className="App">
-      My Todo Application
-      <LearningComponent />
-      <LearningJavaScript />
+      <Counter />
     </div>
   );
 }
