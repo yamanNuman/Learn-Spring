@@ -14,6 +14,4 @@ public class GamingAppLauncherApplication {
 				context.getBean(GameRunner.class).run();
 			}
 		}
-		
-	
 }
