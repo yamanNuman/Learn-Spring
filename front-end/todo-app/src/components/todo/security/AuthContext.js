@@ -8,7 +8,6 @@ export const useAuth = () => useContext(AuthContext);
 
 export default function AuthProvider({children}) {
     //Put some state in context
-const [number,setNumber] = useState(0);
 const [isAuthenticated,setAuthenticated] = useState(false);
 
 //Share the created context with other components
@@ -25,11 +24,8 @@ function login(username,password) {
 function logout() {
     setAuthenticated(false);
 }
- 
-    const valueToBeShared = {number,isAuthenticated,setNumber,setAuthenticated,login,logout}
-
     return (
-        <AuthContext.Provider value={valueToBeShared}>
+        <AuthContext.Provider value={{isAuthenticated,login,logout}}>
             {children}
         </AuthContext.Provider>
     )
