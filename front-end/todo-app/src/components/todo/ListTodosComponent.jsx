@@ -39,7 +39,7 @@ function ListTodosComponent() {
   }
 
   function addNewTodo() {
-    navigate(`/todo/-1`);
+    navigate(`/todos/-1`);
   }
   return (
     <div className="container">
