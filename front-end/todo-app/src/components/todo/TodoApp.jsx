@@ -7,14 +7,15 @@ import HeaderComponent from "./HeaderComponent";
 import ListTodosComponent from "./ListTodosComponent";
 import ErrorComponent from "./ErrorComponent";
 import WelcomeComponent from "./WelcomeComponent";
+import TodoComponent from "./TodoComponent";
 import AuthProvider, { useAuth } from "./security/AuthContext";
 
-function AuthenticatedRoute({children}) {
+function AuthenticatedRoute({ children }) {
   const authContext = useAuth();
-  if(authContext.isAuthenticated){
-    return children
+  if (authContext.isAuthenticated) {
+    return children;
   }
-  return <Navigate to="/" />
+  return <Navigate to="/" />;
 }
 export default function TodoApp() {
   return (
@@ -28,10 +29,35 @@ export default function TodoApp() {
             <Route
               path="/welcome/:username"
               element={
-              <AuthenticatedRoute><WelcomeComponent /></AuthenticatedRoute>}
+                <AuthenticatedRoute>
+                  <WelcomeComponent />
+                </AuthenticatedRoute>
+              }
             ></Route>
-            <Route path="/todos" element={<AuthenticatedRoute><ListTodosComponent /></AuthenticatedRoute>} />
-            <Route path="/logout" element={<AuthenticatedRoute><LogoutComponent /></AuthenticatedRoute>} />
+            <Route
+              path="/todos/:id"
+              element={
+                <AuthenticatedRoute>
+                  <TodoComponent />
+                </AuthenticatedRoute>
+              }
+            />
+            <Route
+              path="/todos"
+              element={
+                <AuthenticatedRoute>
+                  <ListTodosComponent />
+                </AuthenticatedRoute>
+              }
+            />
+            <Route
+              path="/logout"
+              element={
+                <AuthenticatedRoute>
+                  <LogoutComponent />
+                </AuthenticatedRoute>
+              }
+            />
             <Route path="*" element={<ErrorComponent />}></Route>
           </Routes>
           <FooterComponent />
