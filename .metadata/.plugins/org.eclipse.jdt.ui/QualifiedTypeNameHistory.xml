@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider"/>
-    <fullyQualifiedTypeName name="org.springframework.http.converter.json.MappingJacksonValue"/>
-    <fullyQualifiedTypeName name="com.in28minutes.restfulwebservices.user.User"/>
-    <fullyQualifiedTypeName name="com.in28minutes.restfulwebservices.jpa.UserRepository"/>
     <fullyQualifiedTypeName name="com.in28minutes.restfulwebservices.user.UserDaoService"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
     <fullyQualifiedTypeName name="org.springframework.hateoas.server.mvc.WebMvcLinkBuilder"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="org.springframework.security.config.Customizer"/>
     <fullyQualifiedTypeName name="org.springframework.security.config.http.SessionCreationPolicy"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
+    <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservices.jwt.JwtTokenRequest"/>
+    <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservices.jwt.JwtTokenResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 </qualifiedTypeNameHistroy>

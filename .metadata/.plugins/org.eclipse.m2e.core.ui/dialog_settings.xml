@@ -82,8 +82,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\ymnN\Desktop\learn-spring\01-rest-api-starting-code"/>
 			<item value="C:\Users\ymnN\Desktop\Learn-Spring\01-rest-api-starting-code"/>
+			<item value="C:\Users\ymnN\Desktop\learn-spring\01-rest-api-starting-code"/>
 			<item value="C:\Users\ymnN\Desktop\pt-stockandprice-management"/>
 			<item value="C:\Users\ymnN\Desktop\stockandpricemanagement"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\restful-web-services"/>
