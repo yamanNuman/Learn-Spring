@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=learn-spring-security/C:\/Users\/ymnN\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.security\/spring-security-core\/6.2.0\/7542f0da00c7bbe5a3f32a8710490a62c396ff52\/spring-security-core-6.2.0.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.security.core.userdetails.jdbc(JdbcDaoImpl.class[JdbcDaoImpl" modifiers="33" timestamp="1703181428353"/>
+</typeInfoHistroy>
