@@ -16,13 +16,13 @@ public class LoggingAspect {
 	
 	private Logger logger = LoggerFactory.getLogger(getClass());
 	
-	@Before("execution(* com.in28minutes.learnspringaop.aopexample.*.*.*(..))")
+	@Before("com.in28minutes.learnspringaop.aopexample.aspects.CommonPointcutConfig.businessAndDataPackageConfig()")
 	public void logMethodCall(JoinPoint joinPoint) {
 		logger.info("Before Aspect - {} - {}",joinPoint,joinPoint.getArgs());
 		
 	}
 	
-	@After("execution(* com.in28minutes.learnspringaop.aopexample.*.*.*(..))")
+	@After("com.in28minutes.learnspringaop.aopexample.aspects.CommonPointcutConfig.businessAndDataPackageConfig()")
 	public void logMethodCallAfterExecution(JoinPoint joinPoint) {
 		logger.info("After Aspect - {} has executed.",joinPoint);
 	}
