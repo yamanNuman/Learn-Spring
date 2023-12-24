@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=learn-spring-security/C:\/Users\/ymnN\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.security\/spring-security-config\/6.2.0\/bcfe1e3d9aaa2cdfc46e48ae6c22dccfca5d77da\/spring-security-config-6.2.0.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.security.config.annotation.web.configurers.oauth2.server.resource(OAuth2ResourceServerConfigurer.class[OAuth2ResourceServerConfigurer" modifiers="49" timestamp="1703158257441"/>
-    <typeInfo handle="=learn-spring-security/C:\/Program Files\/Java\/jdk-20\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/20\/docs\/api\/=/&lt;java.security(KeyPairGenerator.class[KeyPairGenerator" modifiers="1057" timestamp="1683055841299"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>
