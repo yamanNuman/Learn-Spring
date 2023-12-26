@@ -90,6 +90,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\ymnN\Desktop\learn-spring\aws"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\docker"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-maven"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-security"/>
@@ -104,7 +105,6 @@
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-framework-02"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-jpa-and-hibernate"/>
 			<item value="C:\Users\ymnN\Desktop\learn-spring\example-db"/>
-			<item value="C:\Users\ymnN\Desktop\learn-spring\learn-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
