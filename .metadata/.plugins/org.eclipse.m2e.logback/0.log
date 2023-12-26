@@ -17653,3 +17653,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration RestfulWebServicesA
 2023-12-26 19:12:38,650 [Worker-59: Launching 03-rest-api-full-stack-h2 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ymnN\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
 2023-12-26 19:12:38,651 [Worker-59: Launching 03-rest-api-full-stack-h2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ymnN\Desktop\learn-spring\aws\03-rest-api-full-stack-h2":
 2023-12-26 19:12:38,651 [Worker-59: Launching 03-rest-api-full-stack-h2 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2023-12-26 20:48:10,492 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
